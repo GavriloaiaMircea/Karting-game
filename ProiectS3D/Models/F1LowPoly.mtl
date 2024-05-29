@@ -1,0 +1,524 @@
+# Blender 4.1.1 MTL File: 'machinuta.blend'
+# www.blender.org
+
+newmtl Scene_-_Root.001
+Ns 159.999985
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl amdb11_badging.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl amdb11_brake.001
+Ns 496.636505
+Ka 0.826772 0.826772 0.826772
+Kd 0.116013 0.116013 0.116013
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl amdb11_caliper.001
+Ns 730.247986
+Ka 0.621797 0.621797 0.621797
+Kd 0.334921 0.250272 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl amdb11_misc.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl amdb11_misc_chrome.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.048629 0.048629 0.048629
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl gallardo_alcantara
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.031774 0.031774 0.031774
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Bump -bm 1.000000 C:/Users/lungu/OneDrive/Desktop/masinuta/source/gallardo_alcantara_n.dds
+
+newmtl gallardo_badge_sl
+Ns 1000.000000
+Ka 0.504545 0.504545 0.504545
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd C:/Users/lungu/OneDrive/Desktop/masinuta/source/gallardo_badge_sl_d.dds
+map_d C:/Users/lungu/OneDrive/Desktop/masinuta/source/gallardo_badge_sl_d.dds
+
+newmtl gallardo_badges
+Ns 654.628113
+Ka 0.736364 0.736364 0.736364
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd C:/Users/lungu/OneDrive/Desktop/masinuta/source/gallardo_badges_d.dds
+map_d C:/Users/lungu/OneDrive/Desktop/masinuta/source/gallardo_badges_d.dds
+map_Bump -bm 1.000000 C:/Users/lungu/OneDrive/Desktop/masinuta/source/gallardo_badges_n.dds
+
+newmtl gallardo_carpet
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/lungu/OneDrive/Desktop/masinuta/source/gallardo_carpet_d.dds
+
+newmtl gallardo_cf
+Ns 761.652893
+Ka 0.927273 0.927273 0.927273
+Kd 0.028383 0.028383 0.028383
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_refl C:/Users/lungu/OneDrive/Desktop/masinuta/source/gallardo_cf_n.dds
+map_Bump -bm 1.000000 C:/Users/lungu/OneDrive/Desktop/masinuta/source/gallardo_cf_n.dds
+
+newmtl gallardo_chassis
+Ns 684.380127
+Ka 0.604545 0.604545 0.604545
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/lungu/OneDrive/Desktop/masinuta/source/gallardo_chassis_d.dds
+
+newmtl gallardo_chmsl
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl gallardo_cockbadge
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd C:/Users/lungu/OneDrive/Desktop/masinuta/source/gallardo_cockbadge_s.dds
+map_d C:/Users/lungu/OneDrive/Desktop/masinuta/source/gallardo_cockbadge_oi.dds
+map_Bump -bm 1.000000 C:/Users/lungu/OneDrive/Desktop/masinuta/source/gallardo_cockbadge_n.dds
+
+newmtl gallardo_cockpit
+Ns 1000.000000
+Ka 0.240909 0.240909 0.240909
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/lungu/OneDrive/Desktop/masinuta/source/gallardo_cockpit_s.dds
+map_Bump -bm 1.000000 C:/Users/lungu/OneDrive/Desktop/masinuta/source/gallardo_cockpit_n.dds
+
+newmtl gallardo_cockpit_on
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/lungu/OneDrive/Desktop/masinuta/source/gallardo_cockpit_d.dds
+
+newmtl gallardo_engine
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/lungu/OneDrive/Desktop/masinuta/source/gallardo_engine_d.dds
+map_Bump -bm 1.000000 C:/Users/lungu/OneDrive/Desktop/masinuta/source/gallardo_engine_n.dds
+
+newmtl gallardo_flag_it
+Ns 745.867798
+Ka 0.640909 0.640909 0.640909
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/lungu/OneDrive/Desktop/masinuta/source/gallardo_flag_it_d.dds
+
+newmtl gallardo_gauges
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/lungu/OneDrive/Desktop/masinuta/source/gallardo_gauges_d_on.dds
+
+newmtl gallardo_glass
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.143456 0.143456 0.143456
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 0.500000
+illum 1
+
+newmtl gallardo_glass_tinted
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.053591 0.053591 0.053591
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 0.700000
+illum 1
+
+newmtl gallardo_headlight
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl gallardo_lcd
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/lungu/OneDrive/Desktop/masinuta/source/gallardo_lcd_d.png
+
+newmtl gallardo_lcd4
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/lungu/OneDrive/Desktop/masinuta/source/gallardo_lcd_g.png
+
+newmtl gallardo_leather
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/lungu/OneDrive/Desktop/masinuta/source/gallardo_leather_blue_d.dds
+map_Bump -bm 1.000000 C:/Users/lungu/OneDrive/Desktop/masinuta/source/gallardo_leather_n.dds
+
+newmtl gallardo_leather_quilted
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/lungu/OneDrive/Desktop/masinuta/source/gallardo_leather_quilted_d.dds
+map_Bump -bm 1.000000 C:/Users/lungu/OneDrive/Desktop/masinuta/source/gallardo_leather_quilted_n.dds
+
+newmtl gallardo_leather_stitching_black
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/lungu/OneDrive/Desktop/masinuta/source/gallardo_leather_stitching_black_d.dds
+
+newmtl gallardo_leather_stitching_white
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/lungu/OneDrive/Desktop/masinuta/source/gallardo_leather_stitching_blue_d.dds
+map_Bump -bm 1.000000 C:/Users/lungu/OneDrive/Desktop/masinuta/source/gallardo_leather_stitching_n.dds
+
+newmtl gallardo_lights
+Ns 597.107361
+Ka 0.754545 0.754545 0.754545
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/lungu/OneDrive/Desktop/masinuta/source/gallardo_lights_s.dds
+
+newmtl gallardo_mesh
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/lungu/OneDrive/Desktop/masinuta/source/gallardo_mesh_d.dds
+map_Bump -bm 1.000000 C:/Users/lungu/OneDrive/Desktop/masinuta/source/gallardo_mesh_n.dds
+
+newmtl gallardo_metal
+Ns 669.421509
+Ka 0.904545 0.904545 0.904545
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl gallardo_misc
+Ns 640.000000
+Ka 0.981818 0.981818 0.981818
+Kd 0.021992 0.021992 0.021992
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl gallardo_nodam
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl gallardo_paint
+Ns 250.000000
+Ka 0.500000 0.500000 0.500000
+Kd 0.157112 0.157112 0.157112
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl gallardo_runninglight
+Ns 843.057739
+Ka 0.768182 0.768182 0.768182
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl gallardo_screen
+Ns 851.425659
+Ka 1.000000 1.000000 1.000000
+Kd 0.022810 0.022810 0.022810
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl gallardo_signal_L
+Ns 632.747864
+Ka 0.377273 0.377273 0.377273
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/lungu/OneDrive/Desktop/masinuta/source/gallardo_lights_d.dds
+
+newmtl gallardo_signal_R
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl gallardo_steeringwheel
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/lungu/OneDrive/Desktop/masinuta/source/gallardo_steeringwheel_dc.dds
+map_Bump -bm 1.000000 C:/Users/lungu/OneDrive/Desktop/masinuta/source/gallardo_steeringwheel_n.dds
+
+newmtl gallardo_taillight_L.001
+Ns 471.095062
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/lungu/OneDrive/Desktop/masinuta/source/gallardo_lights_s.dds
+
+newmtl gallardo_taillight_R.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl gallardo_turbo_black
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/lungu/OneDrive/Desktop/masinuta/source/gallardo_chassis_d.dds
+
+newmtl gallardo_turbo_blackcomp
+Ns 250.000000
+Ka 0.888889 0.888889 0.888889
+Kd 0.011834 0.011834 0.011834
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl gallardo_turbo_blackexit
+Ns 250.000000
+Ka 0.888889 0.888889 0.888889
+Kd 0.011834 0.011834 0.011834
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl gallardo_turbo_gold
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.378615 0.205238 0.080117
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl gallardo_turbo_gray
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.404358 0.404358 0.404358
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl gallardo_turbo_intake
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.114648 0.022324 0.022324
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl gallardo_turbo_matblack
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl gallardo_wheel_01a
+Ns 428.429718
+Ka 1.000000 1.000000 1.000000
+Kd 0.470075 0.000000 0.005546
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl generic05_cpit_001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl mirror
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
